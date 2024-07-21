@@ -1,4 +1,4 @@
-# SemanticSpotterFashionSearchAI
+# SemanticSpotterInsuranceSearchAI
 
 ## Semantic Spotter - Project
 Insurance search AI - a Generative Search System 
